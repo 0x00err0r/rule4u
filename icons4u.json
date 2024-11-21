@@ -61,7 +61,23 @@
     {
       "name": "Github.png",
       "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Github-icon.png"
-    },                                                     
+    },
+    {
+      "name": "Github-white.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/github-white-icon.png"
+    },
+    {
+      "name": "github_icon.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/github_icon.png"
+    },          
+    {
+      "name": "reddit.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/reddit-icon.png"
+    },
+    {
+      "name": "Figma.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/figma-icon.png"
+    },                                                                
     {
       "name": "Meta.png",
       "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/meta-icon.png"
