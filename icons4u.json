@@ -4,15 +4,15 @@
   "icons": [
     {
       "name": "AdBlock.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/block.png"
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/block.png"
     },
     {
       "name": "Spotify.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/spotify.png"
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/spotify.png"
     },
     {
       "name": "OpenAI.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/openai-icon.png"
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/openai-icon.png"
     },
     {
       "name": "Google.png",
