@@ -4,115 +4,163 @@
   "icons": [
     {
       "name": "AdBlock.png",
-      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/block.png"
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/AD-Block.png"
+    },
+    {
+      "name": "Apple-Dark-Grey.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Apple-Dark-Grey.png"
+    },
+    {
+      "name": "Apple-Rainbow.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Apple-Rainbow.png"
+    },
+    {
+      "name": "Apple-Black.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Apple-Black.png"
+    },
+    {
+      "name": "Google.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Google-logo.png"
+    },
+    {
+      "name": "Gemini-ai.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Gemini.png"
+    },          
+    {
+      "name": "Gemini.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Google-Gemini-AI.png"
+    },       
+    {
+      "name": "OpenAI.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Openai.png"
+    },
+    {
+      "name": "Perplexity",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/perplexity-icon.png"
+    },
+    {
+      "name": "copilot.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/copilot.png"
+    },
+    {
+      "name": "Spotify-icon.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Spotify-icon.png"
     },
     {
       "name": "Spotify.png",
       "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/spotify.png"
     },
     {
-      "name": "OpenAI.png",
-      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/openai-icon.png"
+      "name": "Spotify_icon.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Spotify_icon.png"
     },
     {
-      "name": "Google.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/google.png"
+      "name": "Github.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Github-icon.png"
+    },                                         
+    {
+      "name": "Disney-Plus-icon.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Disney-%20plus-icon.png"
+    },                   
+    {
+      "name": "Disney-Black.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Disney-Black.png"
     },
+    {
+      "name": "Disney-color.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Disney-color.png"
+    },
+    {
+      "name": "Disney-color.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Disney-color.png"
+    },              
     {
       "name": "Meta.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/meta-2.png"
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/meta-icon.png"
     },
     {
-      "name": "Gemini.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/google-gemini-icon.png"
-    },
-    {
-      "name": "Perplexity",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/perplexity.png"
-    },
-    {
-      "name": "bilibili.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/bilibili.png"
+      "name": "Bilibili.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Bilibili-icon.png"
     },
     {
       "name": "TikTok.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/tiktok-color-icon.png"
+      "url": "hhttps://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Tiktok-color.png"
     },
     {
-      "name": "telegram-icon.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/telegram-icon.png"
+      "name": "telegram.png",
+      "url": "hhttps://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Telegram.png"
     },
     {
-      "name": "twitter-x.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/twitter-x.png"
+      "name": "twitterX.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/twitterX.png"
     },
     {
       "name": "youtube.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/youtube.png"
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/youtube.png"
     },
     {
-      "name": "Apple.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/apple-black.png"
-    },
+      "name": "Pandora.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Pandora-icon.png"
+    },    
     {
       "name": "Pinterest.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/pinterest.png"
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Pinterest-icon-red.png"
     },
     {
-      "name": "amazon-prime.png",
-      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/prime-video.png"
+      "name": "primevideo.png.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/primevideo.png"
     },
     {
       "name": "Pornhub.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/Pornhub-logo-circle.png"
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Pornhub-logo.png"
     },
     {
-      "name": "netflix.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/netflix_logo_icon.png"
+      "name": "Netflix.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Netflix-logo.png"
     },
     {
-      "name": "Disney+.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/disney%20icon.png"
+      "name": "NeateaseMusic.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/NeateaseMusic-icon.png"
+    },    
+    {
+      "name": "Resistance.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/resistance.png"
     },
     {
-      "name": "copilot.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/copilot.png"
+      "name": "Discord.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/discord-color-icon.png"
     },
     {
-      "name": "resistance.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/resistance_alt.png"
-    },
-    {
-      "name": "discord.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/discord-color-icon.png"
-    },
+      "name": "Microsoft.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/microsoft_logo_social.png"
+    },    
     {
       "name": "UN.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/UN.png"
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/UN.png"
     },
     {
       "name": "us",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/united-states-flag-icon.png"
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/united-states-flag-icon.png"
     },
     {
       "name": "sg",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/singapore-flag-icon.png"
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/singapore-flag-icon.png"
     },
     {
       "name": "tw.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/taiwan-flag-icon.png"
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/taiwan-flag-icon.png"
     },
     {
       "name": "jp.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/japan-flag-icon.png"
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/japan-flag-icon.png"
     },
     {
       "name": "hk.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/hong-kong-flag-icon.png"
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/hong-kong-flag-icon.png"
     },
     {
       "name": "kr",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/south-korea-flag-icon.png"
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/south-korea-flag-icon.png"
     },
     {
       "name": "turkey",
@@ -120,55 +168,75 @@
     },    
     {
       "name": "steam.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/steam-icon.png"
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/steam_icon.png.png"
     },
     {
       "name": "subscribe.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/rss-color-icon.png"
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Rss.png"
     },
     {
       "name": "resistance.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/resistance_alt.png"
-    },
-    {
-      "name": "select.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/select-icon.png"
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/resistance.png"
     },
     {
       "name": "threads.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/threads-icon.png"
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/threads-icon.png"
     },
     {
       "name": "wikipedia.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/wikipedia-icon.png"
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/wikipedia-icon.png"
     },
     {
       "name": "paypal.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/paypal.png"
-    },
-    {
-      "name": "pandora.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/pandora.png"
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/PayPal-icon.png"
     },
     {
       "name": "panda.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/panda.png"
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/panda.png"
     },
     {
-      "name": "Microsoft.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/Microsoft-1.png"
+      "name": "heart.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/heart.png"
+    },     
+    {
+      "name": "linked.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/linked-icon.png"
+    },        
+    {
+      "name": "Select.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/select-icon.png"
+    },    
+    {
+      "name": "selection.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/selection.png"
     },
+    {
+      "name": "select-green-icon.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/select-green-icon.png"
+    },    
     {
       "name": "globe.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/globe.png"
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/globe.png"
     },
+    {
+      "name": "global-connection.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/global-connection.png"
+    },    
     {
       "name": "fish.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/fish.png"
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/fish.png"
     },
     {
+      "name": "world-map-pin.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/world-map-pin-icon.png"
+    },
+    {
+      "name": "repeat-button.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/repeat-button-green-icon.png"
+    },          
+    {
       "name": "twitch.png",
-      "url": "https://github.com/0x00err0r/rule4u/blob/main/icon/twitch-color-icon.png"
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/twitch-color-icon.png"
     }
   ]
 }
