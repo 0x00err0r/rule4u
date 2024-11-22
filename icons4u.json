@@ -69,7 +69,11 @@
     {
       "name": "github_icon.png",
       "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/github_icon.png"
-    },          
+    },
+    {
+      "name": "githublogo.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/githublogo.png"
+    },                
     {
       "name": "reddit.png",
       "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/reddit-icon.png"
@@ -179,8 +183,8 @@
       "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Steam-Red-Circle.png"
     },
     {
-      "name": "Steam-red.png",
-      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Steam-Red-Circle.png"
+      "name": "Steam-2.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/steam-2.png"
     },        
     {
       "name": "twitch.png",
