@@ -165,11 +165,51 @@
     {
       "name": "Paypal-icon.png",
       "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/PayPal-icon.png"
-    },            
+    },
+    {
+      "name": "us",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/usa-flag-round-circle-icon.png"
+    },
+    {
+      "name": "singapore-flag-round-circle-icon",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/singapore-flag-round-circle-icon.png"
+    },
+    {
+      "name": "taiwan-flag-round-circle-icon.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/taiwan-flag-round-circle-icon.png"
+    },
+    {
+      "name": "japan-flag-round-circle-icon.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/japan-flag-round-circle-icon.png"
+    },
+    {
+      "name": "hong-kong-flag-round-circle-icon.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/hong-kong-flag-round-circle-icon.png"
+    },
+    {
+      "name": "south-korea-flag-round-circle-icon",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/south-korea-flag-round-circle-icon.png"
+    },
+    {
+      "name": "turkey-flag-round-circle-icon",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/turkey-flag-round-circle-icon.png"
+    },
+    {
+      "name": "uk-flag-round-circle-icon",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/uk-flag-round-circle-icon.png"
+    },
+    {
+      "name": "canada-flag-round-circle-icon",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/canada-flag-round-circle-icon.png"
+    },                                                   
     {
       "name": "UN.png",
       "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/UN.png"
     },
+    {
+      "name": "United-Nations.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/United-Nations-flag.png.png"
+    },    
     {
       "name": "us",
       "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/united-states-flag-icon.png"
