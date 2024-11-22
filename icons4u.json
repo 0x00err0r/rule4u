@@ -99,9 +99,17 @@
       "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/twitterX.png"
     },
     {
+      "name": "twitter-x.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/twitter-x.png"
+    },    
+    {
       "name": "Threads.png",
       "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/threads-icon.png"
-    },    
+    },
+    {
+      "name": "Threads-Instagram.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Threads-Instagram.png"
+    },         
     {
       "name": "youtube.png",
       "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/youtube.png"
@@ -131,6 +139,18 @@
       "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Netflix-logo.png"
     },
     {
+      "name": "netflix-logo-icon.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/netflix-logo-icon.png"
+    },
+    {
+      "name": "netflix-logo-icon-black.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/netflix-logo-icon-black.png"
+    },         
+    {
+      "name": "Pinterest-icon.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Pinterest.png"
+    },    
+    {
       "name": "Pinterest.png",
       "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Pinterest-icon-red.png"
     },     
@@ -147,17 +167,37 @@
       "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/microsoft_logo_social.png"
     },
     {
+      "name": "Microsoft-10.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/windows-10-icon.png"
+    },    
+    {
       "name": "Steam.png",
       "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/steam_icon.png"
     },
     {
+      "name": "Steam-red.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Steam-Red-Circle.png"
+    },
+    {
+      "name": "Steam-red.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/Steam-Red-Circle.png"
+    },        
+    {
       "name": "twitch.png",
       "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/twitch-color-icon.png"
-    },    
+    },
     {
       "name": "Resistance-icon.png",
       "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/resistance.png"
+    },        
+    {
+      "name": "ingress_logo.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/ingress_logo.png"
     },
+    {
+      "name": "enlightened.png",
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/enlightened.png"
+    },    
     {
       "name": "Wikipedia.png",
       "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/wikipedia-icon.png"
@@ -167,7 +207,7 @@
       "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/PayPal-icon.png"
     },
     {
-      "name": "us",
+      "name": "usa-flag-round-circle-icon",
       "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/usa-flag-round-circle-icon.png"
     },
     {
@@ -208,7 +248,7 @@
     },
     {
       "name": "United-Nations.png",
-      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/United-Nations-flag.png.png"
+      "url": "https://raw.githubusercontent.com/0x00err0r/rule4u/main/icon/United-Nations-flag.png"
     },    
     {
       "name": "us",
