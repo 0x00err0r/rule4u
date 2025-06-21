@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": "nianticlabs.com",
+      "domain_suffix": [
+        "ingress.com",
+        "nianticlabs.com",
+        "nianticproject.com",
+        "googleapis.com",
+        "map.fastly.net",
+        "google-analytics.com",
+        "irebase.google.com",
+        "pokemongo.com",
+        "googleapis.com",
+        "gstatic.com",
+        "googleusercontent.com",
+        "gvt1.com",
+        "ggpht.com",
+        "ssl.google-analytics.com",
+        "clientsX.google.com",
+        "fonts.gstatic.com",
+        "clientsX.googleusercontent.com",
+        "quago.io"
+      ]
+    }
+  ]
+}
