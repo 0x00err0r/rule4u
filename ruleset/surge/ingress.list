@@ -1,29 +1,11 @@
 # NAME: ingress
 # AUTHOR: err0r
 # UPDATED: 2025-10-07 15:37:47
-# DOMAIN-SUFFIX: 15
-# TOTAL: 18
-
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
 # Ingress 游戏规则
 DOMAIN-SUFFIX,nianticlabs.com
 DOMAIN-SUFFIX,ingress.com
 DOMAIN-SUFFIX,nianticproject.com
 DOMAIN-SUFFIX,pokemongo.com
 DOMAIN-SUFFIX,nia.gl
-
-# Google 服务规则 (Ingress 依赖)
-DOMAIN-SUFFIX,google.com
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,googleusercontent.com
-DOMAIN-SUFFIX,gvt1.com # Google download service, sometimes used for updates
-DOMAIN-SUFFIX,ggpht.com # Google photos, also used for some content
-DOMAIN-SUFFIX,ssl.google-analytics.com
-DOMAIN-SUFFIX,clientsX.google.com
-DOMAIN-SUFFIX,fonts.gstatic.com
-DOMAIN-SUFFIX,clientsX.googleusercontent.com
-
-# 针对 Google 地图瓦片，有时需要更具体
-DOMAIN-KEYWORD,mt.google.com
-DOMAIN-KEYWORD,kh.google.com
-DOMAIN-KEYWORD,clients.google.com
