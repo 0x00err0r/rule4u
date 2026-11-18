@@ -1,11 +1,58 @@
-# NAME: ingress
+
+# NAME: Ingress
 # AUTHOR: err0r
-# UPDATED: 2025-10-07 15:37:47
-# DOMAIN-SUFFIX: 5
-# TOTAL: 5
-# Ingress 游戏规则
-DOMAIN-SUFFIX,nianticlabs.com
+# UPDATED: 2026-11-18
+# FORMAT: Surge Rule Set
+
+# ==========================================
+# 1. Android Application
+# Not applicable to Surge iOS/macOS
+# ==========================================
+# PROCESS-NAME,com.nianticproject.ingress
+
+# ==========================================
+# 2. Ingress Official Services
+# ==========================================
 DOMAIN-SUFFIX,ingress.com
-DOMAIN-SUFFIX,nianticproject.com
-DOMAIN-SUFFIX,pokemongo.com
-DOMAIN-SUFFIX,nia.gl
+
+# ==========================================
+# 3. Niantic Legacy Infrastructure
+# ==========================================
+DOMAIN-SUFFIX,nianticlabs.com
+DOMAIN-SUFFIX,nianticstatic.com
+
+# ==========================================
+# 4. Niantic Spatial Infrastructure
+# ==========================================
+DOMAIN-SUFFIX,nianticspatial.com
+
+# ==========================================
+# 5. Optional - Google Authentication
+# ==========================================
+# DOMAIN,accounts.google.com
+# DOMAIN,oauth2.googleapis.com
+# DOMAIN,www.googleapis.com
+
+# ==========================================
+# 6. Optional - Google Maps Services
+# ==========================================
+# DOMAIN,clients4.google.com
+# DOMAIN,maps.googleapis.com
+# DOMAIN,maps.gstatic.com
+# DOMAIN,tile.googleapis.com
+
+# ==========================================
+# 7. Optional - Firebase Services
+# ==========================================
+# DOMAIN,firebaseinstallations.googleapis.com
+# DOMAIN,firebaseremoteconfig.googleapis.com
+
+# ==========================================
+# 8. Optional - Cloud Storage
+# ==========================================
+# DOMAIN,storage.googleapis.com
+
+# ==========================================
+# 9. Optional - Legacy Websites
+# ==========================================
+# DOMAIN-SUFFIX,ingressgame.com
